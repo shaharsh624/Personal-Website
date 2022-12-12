@@ -98,6 +98,7 @@ hr{
   padding: 10px;
   text-decoration: none;
   margin: 100px auto 100px auto;
+  width: 30%;
 }
 .btn:hover {
   background: #30e3cb;
