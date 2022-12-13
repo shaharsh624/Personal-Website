@@ -92,14 +92,13 @@ hr{
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial;
   color: #ffffff;
-  font-size: 18px;
-  padding: 10px;
+  font-size: 20px;
+  padding: 10px 13px 10px 13px;
   text-decoration: none;
-  margin: 100px auto 100px auto;
-  width: 30%;
 }
+
 .btn:hover {
   background: #30e3cb;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
